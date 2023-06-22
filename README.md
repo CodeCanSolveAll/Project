@@ -1,2 +1,9 @@
 # Project
-example for git tuto
+example for git tutorial !
+## Create new repository
+
+## Clone repository
+
+## Commit
+
+## Push
